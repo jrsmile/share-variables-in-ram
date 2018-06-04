@@ -6,7 +6,7 @@
 //#include <psapi.h>
 
 #include <sstream> //for std::stringstream
-#include "_SharedVar.h"
+#include "_SharedVar.cpp"
 
 
 /// NOTE: For definitions read more in SharedVar.h
